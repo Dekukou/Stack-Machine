@@ -1,6 +1,4 @@
-# Groupe de fayoll_a
-
-- Lancer le programme : 
+Lancer le programme : 
 
 ./abstractvm exemple.avm 
 
